@@ -1,0 +1,10 @@
+# Insert your preferred key mappings here.
+unmap h
+unmap l
+map h previousTab
+map l nextTab
+unmap J
+unmap K
+# map J something
+# map K something
+map s LinkHints.activateModeToOpenIncognito
